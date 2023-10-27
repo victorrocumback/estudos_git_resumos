@@ -11,7 +11,8 @@ Repositório para armazenar resumos do curso Versionameno de Código com GIT e G
 
 | Aulas                                    | Resumos     |
 | ---------------------------------------- | ----------- |
-| Gravando Alterações no Repositório Local | [Resumos]() |
+| Aula 01 | [Resumo]() |
+| Aula 02 | [Resumo]() |
 
 ```
 git init
